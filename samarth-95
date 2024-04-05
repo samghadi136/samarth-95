@@ -1,0 +1,59 @@
+[33mcommit aea069411296565b032aeb2c876f17a72154a132[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: samarth <samghadi136@gmail.com>
+Date:   Fri Apr 5 10:06:05 2024 +0530
+
+    commiting files
+
+[1mdiff --git a/.gitignore b/.gitignore[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/error.txt b/error.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+
+[33mcommit a4d18900790aae138e55217e8a31ae158be33380[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: samarth <samghadi136@gmail.com>
+Date:   Fri Apr 5 10:05:06 2024 +0530
+
+    Add files
+
+[1mdiff --git a/t1.txt b/t1.txt[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+[1mdiff --git a/w1.docx b/w1.docx[m
+[1mnew file mode 100644[m
+[1mindex 0000000..e69de29[m
+<C:\Users\Samarth\AppData\Local\Temp/git-blob-a23604/w1.docx> does not seem to be a docx file!
+
+[33mcommit d8c24eacf010d0fd9ee5c9eb5ffb893e95fbe686[m
+Author: samghadi136 <161406452+samghadi136@users.noreply.github.com>
+Date:   Fri Apr 5 10:01:39 2024 +0530
+
+    Update README.md
+
+[1mdiff --git a/README.md b/README.md[m
+[1mindex bfd040f..eee10ed 100644[m
+[1m--- a/README.md[m
+[1m+++ b/README.md[m
+[36m@@ -1 +1,4 @@[m
+[31m-# samarth-95[m
+\ No newline at end of file[m
+[32m+[m[32m# samarth-95[m
+[32m+[m[32m"This is 95 repository"[m
+[32m+[m[32m<br>[m
+[32m+[m[32mAuthor-Samarth ghadi[m
+
+[33mcommit ea9ba9cd47182bca6573f78582f7efaa80ff1dd8[m
+Author: samghadi136 <161406452+samghadi136@users.noreply.github.com>
+Date:   Fri Apr 5 10:01:08 2024 +0530
+
+    Initial commit
+
+[1mdiff --git a/README.md b/README.md[m
+[1mnew file mode 100644[m
+[1mindex 0000000..bfd040f[m
+[1m--- /dev/null[m
+[1m+++ b/README.md[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32m# samarth-95[m
+\ No newline at end of file[m
